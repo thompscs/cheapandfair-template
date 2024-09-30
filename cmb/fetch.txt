@@ -1,0 +1,13 @@
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cls.csv	575162	data/cls.csv
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_023GHz.fits	2367360	data/cmb_023GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_023GHz.jpg	110455	data/cmb_023GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_100GHz.fits	2367360	data/cmb_100GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_100GHz.jpg	110421	data/cmb_100GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_143GHz.fits	2367360	data/cmb_143GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_143GHz.jpg	110384	data/cmb_143GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_353GHz.fits	2367360	data/cmb_353GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_353GHz.jpg	110541	data/cmb_353GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_545GHz.fits	2367360	data/cmb_545GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_545GHz.jpg	110453	data/cmb_545GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_857GHz.fits	2367360	data/cmb_857GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/cmb/cmb_857GHz.jpg	110515	data/cmb_857GHz.jpg

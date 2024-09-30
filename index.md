@@ -33,3 +33,8 @@ For downloading data to a Supercomputer, checkout the documentation on how to ac
 | [Link](index-cmb.html)   | cmb     | `13`            | 14.7 MiB   |
 | [Link](index-synch.html) | synch   | `12`            | 13.7 MiB   |
 | [Link](index-dust.html)  | dust    | `12`            | 13.8 MiB   |
+
+
+For more information about the project, checkout [About](./about.md)
+
+![Dust emission at 353 GHz](https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_353GHz.jpg)

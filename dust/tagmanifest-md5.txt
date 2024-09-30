@@ -1,0 +1,4 @@
+9e5ad981e0d29adc278f6a294b8c2aca bagit.txt
+bb99e197ba28b5f74ac55fe2e22eaab3 manifest-sha256.txt
+f152bed578d3ff934ac21801ac962502 bag-info.txt
+69f3e63350a316f99803e8b98671ac52 fetch.txt

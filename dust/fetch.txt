@@ -1,0 +1,12 @@
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_023GHz.fits	2367360	data/dust_023GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_023GHz.jpg	37006	data/dust_023GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_100GHz.fits	2367360	data/dust_100GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_100GHz.jpg	40854	data/dust_100GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_143GHz.fits	2367360	data/dust_143GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_143GHz.jpg	40211	data/dust_143GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_353GHz.fits	2367360	data/dust_353GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_353GHz.jpg	40570	data/dust_353GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_545GHz.fits	2367360	data/dust_545GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_545GHz.jpg	40972	data/dust_545GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_857GHz.fits	2367360	data/dust_857GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/dust/dust_857GHz.jpg	41365	data/dust_857GHz.jpg

@@ -1,0 +1,5 @@
+# {dset} will be replaced with the dataset name
+title="Dataset - Cosmic Microwave Background Simulations {dset}"
+author="Author Name"
+description="Maps in FITS format and HEALPix pixelization and map preview in jpg format for the {dset} component"
+date_created="2024-09-12"

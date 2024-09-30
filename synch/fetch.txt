@@ -1,0 +1,12 @@
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_023GHz.fits	2367360	data/synch_023GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_023GHz.jpg	34946	data/synch_023GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_100GHz.fits	2367360	data/synch_100GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_100GHz.jpg	40896	data/synch_100GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_143GHz.fits	2367360	data/synch_143GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_143GHz.jpg	41954	data/synch_143GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_353GHz.fits	2367360	data/synch_353GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_353GHz.jpg	24846	data/synch_353GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_545GHz.fits	2367360	data/synch_545GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_545GHz.jpg	24347	data/synch_545GHz.jpg
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_857GHz.fits	2367360	data/synch_857GHz.fits
+https://g-c3f142.c2d0f8.bd7c.data.globus.org/datasets/synch/synch_857GHz.jpg	24429	data/synch_857GHz.jpg
